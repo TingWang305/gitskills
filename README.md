@@ -1,4 +1,3 @@
 # gitskills
 # readme.md testABC
-I am master branch
-kkkkkkk
+new 122233333333333333333333333
